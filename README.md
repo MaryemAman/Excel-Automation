@@ -61,9 +61,6 @@ ExcelAutomation/
 - Make sure `Excel1.xlsx` is in the correct directory before running the script.
 - The script automatically handles missing columns and formats timestamps correctly.
 
-## 📜 License
-This project is open-source under the MIT License.
-
 ## 🤝 Contributing
 Feel free to submit issues or contribute improvements via pull requests!
 
